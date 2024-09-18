@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39da2fdb637968bb85178773fe88f13d",
+    "revision": "5af8fb060fbf58f791abe6385ca1111f",
     "url": "/mern-test-fe/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mern-test-fe/static/css/7.cfadcd7f.chunk.css"
   },
   {
-    "revision": "8509c3150349e4b42073",
+    "revision": "1636dada963ce48c22b3",
     "url": "/mern-test-fe/static/css/main.75f6faf7.chunk.css"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mern-test-fe/static/js/7.ff1a9b4a.chunk.js"
   },
   {
-    "revision": "8509c3150349e4b42073",
-    "url": "/mern-test-fe/static/js/main.2aebb101.chunk.js"
+    "revision": "1636dada963ce48c22b3",
+    "url": "/mern-test-fe/static/js/main.0c6633a0.chunk.js"
   },
   {
     "revision": "c2e3c3abb4ae8bba9ac0",
